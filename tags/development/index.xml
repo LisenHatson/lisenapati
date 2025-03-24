@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Development on Lisenapati</title><link>https://lisenhatson.github.io/tags/development/</link><description>Recent content in Development on Lisenapati</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 23 Mar 2025 06:46:14 +0700</lastBuildDate><atom:link href="https://lisenhatson.github.io/tags/development/index.xml" rel="self" type="application/rss+xml"/><item><title>Trying Eric Murphy's render_image</title><link>https://lisenhatson.github.io/posts/trying/</link><pubDate>Sun, 23 Mar 2025 06:46:14 +0700</pubDate><guid>https://lisenhatson.github.io/posts/trying/</guid><description>&lt;p>Eric Murphy is a well known YouTuber in niche Linux/Privacy community that do web development.
+His home base site, &lt;a href="https://ericmurphy.xyz" target="_blank" rel="noopener">ericmurphy.xyz&lt;/a>
+ have a really good code design and optimizations.&lt;/p>
+&lt;p>My 3DS&amp;rsquo; web browser able to load his site and even his images! So I want to give it a try.&lt;/p>
+&lt;p>Here&amp;rsquo;s his &lt;a href="https://ericmurphy.xyz/blog/images/" target="_blank" rel="noopener">blog&lt;/a>
+
+regarding the matter and his &lt;a href="https://github.com/ericmurphyxyz/ericmurphy.xyz/blob/master/layouts/_default/_markup/render-image.html" target="_blank" rel="noopener">code&lt;/a>
+
+on GitHub.&lt;/p>
+&lt;p>
+
+
+&lt;figure class="full-width">
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ &lt;a href="https://lisenhatson.github.io/posts/trying/vashti.jpg">
+ &lt;picture>
+ &lt;source srcset="https://lisenhatson.github.io/posts/trying/vashti_hu_e785fa6f42325e0.webp" type="image/webp">
+ &lt;img src="https://lisenhatson.github.io/posts/trying/vashti_hu_950c22ebb2653fa8.jpg" alt="Vashti" loading="lazy" decoding="async"
+ width="400" height="400" />
+ &lt;/picture>
+ &lt;/a>
+
+ &lt;figcaption>My Drawing&lt;/figcaption>
+&lt;/figure>
+
+
+
+
+
+&lt;figure class="full-width">
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ &lt;a href="https://lisenhatson.github.io/posts/trying/IMG_2003.jpg">
+ &lt;picture>
+ &lt;source srcset="https://lisenhatson.github.io/posts/trying/IMG_2003_hu_81b76783197386e6.webp" type="image/webp">
+ &lt;img src="https://lisenhatson.github.io/posts/trying/IMG_2003_hu_275f9ab873630ee1.jpg" alt="Park" loading="lazy" decoding="async"
+ width="400" height="267" />
+ &lt;/picture>
+ &lt;/a>
+
+ &lt;figcaption>My Photo&lt;/figcaption>
+&lt;/figure>
+
+
+
+
+
+&lt;figure class="full-width">
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ &lt;a href="https://lisenhatson.github.io/posts/trying/gmp.png">
+ &lt;picture>
+ &lt;source srcset="https://lisenhatson.github.io/posts/trying/gmp_hu_e1c6eb8774657dfd.webp" type="image/webp">
+ &lt;img src="https://lisenhatson.github.io/posts/trying/gmp_hu_a08fdd41018531d4.png" alt="" loading="lazy" decoding="async"
+ width="400" height="225" />
+ &lt;/picture>
+ &lt;/a>
+
+ &lt;figcaption>My Gimp Edit&lt;/figcaption>
+&lt;/figure>
+
+
+
+
+
+&lt;figure class="full-width">
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ &lt;a href="https://lisenhatson.github.io/posts/trying/mysite.png">
+ &lt;picture>
+ &lt;source srcset="https://lisenhatson.github.io/posts/trying/mysite_hu_d39d135c85ec6c3e.webp" type="image/webp">
+ &lt;img src="https://lisenhatson.github.io/posts/trying/mysite_hu_7ff4342a2c65e24b.png" alt="" loading="lazy" decoding="async"
+ width="400" height="400" />
+ &lt;/picture>
+ &lt;/a>
+
+ &lt;figcaption>This post in 3DS!&lt;/figcaption>
+&lt;/figure>
+
+&lt;/p></description></item></channel></rss>
