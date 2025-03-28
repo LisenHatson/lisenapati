@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Blog on Lisenapati</title><link>https://lisenapati.org/posts/</link><description>Recent content in The Blog on Lisenapati</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 28 Mar 2025 11:46:59 +0700</lastBuildDate><atom:link href="https://lisenapati.org/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Lisenapati is now officially on Lisenapati.org!</title><link>https://lisenapati.org/posts/official/</link><pubDate>Fri, 28 Mar 2025 11:46:59 +0700</pubDate><guid>https://lisenapati.org/posts/official/</guid><description>&lt;p>For the past few weeks, I&amp;rsquo;ve been learning Hugo and basic HTML/CSS designing for my website. I&amp;rsquo;m referencing and learning a lot from content creators that I&amp;rsquo;ve been following that uses Hugo and Linux. Now that I&amp;rsquo;ve deployed this site on my own domain, this site is now officially launched!&lt;/p>
-&lt;p>This is how I wrote my posts, using markdown, for designing and the whole website layout, I&amp;rsquo;m just did some plain CSS and HTML, I probably do JS-ing for some unique features like guestbook, music player, et cetera.&lt;/p></description></item><item><title>Why I Stopped Listen to Loud Music</title><link>https://lisenapati.org/posts/loud-music/</link><pubDate>Sun, 23 Mar 2025 21:20:48 +0700</pubDate><guid>https://lisenapati.org/posts/loud-music/</guid><description>&lt;p>It&amp;rsquo;s too loud.
-I can&amp;rsquo;t stand it.&lt;/p></description></item><item><title>Trying Eric Murphy's render_image</title><link>https://lisenapati.org/posts/trying/</link><pubDate>Sun, 23 Mar 2025 06:46:14 +0700</pubDate><guid>https://lisenapati.org/posts/trying/</guid><description>&lt;p>Eric Murphy is a well known YouTuber in niche Linux/Privacy community that do web development.
+&lt;p>This is how I wrote my posts, using markdown, for designing and the whole website layout, I&amp;rsquo;m just did some plain CSS and HTML, I probably do JS-ing for some unique features like guestbook, music player, et cetera.&lt;/p></description></item><item><title>Trying Eric Murphy's render-image</title><link>https://lisenapati.org/posts/trying/</link><pubDate>Sun, 23 Mar 2025 06:46:14 +0700</pubDate><guid>https://lisenapati.org/posts/trying/</guid><description>&lt;p>Eric Murphy is a well known YouTuber in niche Linux/Privacy community that do web development.
 His home base site, &lt;a href="https://ericmurphy.xyz" target="_blank" rel="noopener">ericmurphy.xyz&lt;/a>
  have a really good code design and optimizations.&lt;/p>
 &lt;p>My 3DS&amp;rsquo; web browser able to load his site and even his images! So I want to give it a try.&lt;/p>
-&lt;p>Here&amp;rsquo;s his &lt;a href="https://ericmurphy.xyz/blog/images/" target="_blank" rel="noopener">blog&lt;/a>
+&lt;p>Here&amp;rsquo;s his &lt;a href="https://ericmurphy.xyz/blog/images/" target="_blank" rel="noopener">blog post&lt;/a>
 
 regarding the matter and his &lt;a href="https://github.com/ericmurphyxyz/ericmurphy.xyz/blob/master/layouts/_default/_markup/render-image.html" target="_blank" rel="noopener">code&lt;/a>
 
@@ -110,53 +109,41 @@ on GitHub.&lt;/p>
 
 &lt;/p></description></item><item><title>Rekomendasi Laptop/Desktop</title><link>https://lisenapati.org/posts/laptop-recs/</link><pubDate>Fri, 21 Mar 2025 20:44:12 +0700</pubDate><guid>https://lisenapati.org/posts/laptop-recs/</guid><description>&lt;h2 id="daftar-isi">Daftar Isi&lt;/h2>
 &lt;ul>
-&lt;li>
-&lt;p>&lt;a href="#-Baru-atau-Bekas?">Baru atau Bekas?&lt;/a>
-&lt;/p>
+&lt;li>&lt;a href="#baru-atau-bekas">Baru atau Bekas?&lt;/a>
 &lt;/li>
-&lt;li>
-&lt;p>&lt;a href="#-SPESIFIKASI-KOMPONEN-YANG-HARUS-DIHINDARI-">SPESIFIKASI KOMPONEN YANG HARUS DIHINDARI&lt;/a>
-&lt;/p>
+&lt;li>&lt;a href="#spesifikasi-komponen-yang-harus-dihindari">SPESIFIKASI KOMPONEN YANG HARUS DIHINDARI&lt;/a>
 &lt;/li>
-&lt;li>
-&lt;p>&lt;a href="#-Rekomendasi-Laptop">Rekomendasi Laptop&lt;/a>
-&lt;/p>
+&lt;li>&lt;a href="#rekomendasi-laptop">Rekomendasi Laptop&lt;/a>
+
 &lt;ul>
-&lt;li>&lt;a href="#Thinkpad">Thinkpad&lt;/a>
+&lt;li>&lt;a href="#thinkpad">Thinkpad&lt;/a>
 &lt;/li>
-&lt;li>&lt;a href="#Dell-Latitude">Dell Latitude&lt;/a>
+&lt;li>&lt;a href="#dell-latitude">Dell Latitude&lt;/a>
 &lt;/li>
-&lt;li>&lt;a href="#Dell-Precision">Dell Precision&lt;/a>
+&lt;li>&lt;a href="#dell-precision">Dell Precision&lt;/a>
 &lt;/li>
-&lt;li>&lt;a href="#HP-Elitebook">HP Elitebook&lt;/a>
+&lt;li>&lt;a href="#hp-elitebook">HP Elitebook&lt;/a>
 &lt;/li>
-&lt;li>&lt;a href="#Apple-MacBook">Apple MacBook&lt;/a>
+&lt;li>&lt;a href="#apple-macbook">Apple MacBook&lt;/a>
 &lt;/li>
-&lt;li>&lt;a href="#Advan-dan-Axioo">Advan dan Axioo&lt;/a>
+&lt;li>&lt;a href="#advan-dan-axioo">Advan dan Axioo&lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>
-&lt;p>&lt;a href="#-Komponen-Komputer">Komponen Komputer&lt;/a>
-&lt;/p>
+&lt;li>&lt;a href="#komponen-komputer">Komponen Komputer&lt;/a>
+
 &lt;ul>
-&lt;li>&lt;a href="#-Istilah-istilah-dan-Maksudnya">Istilah-istilah dan Maksudnya&lt;/a>
+&lt;li>&lt;a href="#istilah-istilah-dan-maksudnya">Istilah-istilah dan Maksudnya&lt;/a>
 &lt;/li>
-&lt;li>&lt;a href="#-Merk-dan-Tinjauannya">Merk dan Tinjauannya&lt;/a>
+&lt;li>&lt;a href="#merk-dan-tinjauannya">Merk dan Tinjauannya&lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>
-&lt;p>&lt;a href="#Rekomendasi-Desktop">Rekomendasi Desktop&lt;/a>
-&lt;/p>
+&lt;li>&lt;a href="#rekomendasi-desktop">Rekomendasi Desktop&lt;/a>
 &lt;/li>
-&lt;li>
-&lt;p>&lt;a href="#Rakit%3ePrebuilt">Rakit&amp;gt;&lt;em>Prebuilt&lt;/em>&lt;/a>
-&lt;/p>
+&lt;li>&lt;a href="#rakit-prebuilt">Rakit &amp;gt; Prebuilt&lt;/a>
 &lt;/li>
-&lt;li>
-&lt;p>&lt;a href="#SFF,-Tiny-PC,-dan-Mini-PC">SFF, Tiny PC, dan Mini PC&lt;/a>
-&lt;/p>
+&lt;li>&lt;a href="#sff-tiny-pc-dan-mini-pc">SFF, Tiny PC, dan Mini PC&lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="baru-atau-bekas">Baru atau Bekas?&lt;/h2>
@@ -170,7 +157,7 @@ on GitHub.&lt;/p>
 &lt;ul>
 &lt;li>Menerapkan konsep &lt;em>reuse&lt;/em>, membuktikan bahwa anda telah berpartisipasi dalam menjaga lingkungan dengan menggunakan barang bekas.&lt;/li>
 &lt;li>Harga murah, dengan performa bagus. Produk lama biasanya memiliki harga rendah dengan performa yang masih bisa menyaingi produk baru.&lt;/li>
-&lt;li>Kualitas buruk? Beberapa perusahaan elektronik memperbaharui &lt;em>(refurbish)&lt;/em> produk bekas dengan mengganti dan memperbaiki beberapa komponen yang ada.&lt;/li>
+&lt;li>Kualitas buruk? Beberapa perusahaan elektronik memperbaharui (&lt;em>refurbish&lt;/em>) produk bekas dengan mengganti dan memperbaiki beberapa komponen yang ada.&lt;/li>
 &lt;/ul>
 &lt;h2 id="spesifikasi-komponen-yang-harus-dihindari">SPESIFIKASI KOMPONEN YANG HARUS DIHINDARI&lt;/h2>
 &lt;ul>
@@ -181,85 +168,8 @@ on GitHub.&lt;/p>
 &lt;li>Laptop dengan HDD&lt;/li>
 &lt;li>Penyimpanan di bawah 128GB&lt;/li>
 &lt;li>Laptop yang terbuat dari material murahan dan pengendalian kualitas yang buruk.&lt;/li>
-&lt;li>Untuk informasi yang lebih lengkap, silakan cek &lt;a href="#-Komponen-Komputer">Komponen Komputer&lt;/a>
+&lt;li>Untuk informasi yang lebih lengkap, silakan cek &lt;a href="#komponen-komputer">Komponen Komputer&lt;/a>
 .&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>&lt;strong>Sekalipun untuk pekerjaan ringan, jangan membeli produk murah dengan spesifikasi komponen yang rendah, karena produk itu lebih besar kemungkinannya untuk menjadi limbah elektronik yang bahkan tidak bisa digunakan untuk hal-hal lain.&lt;/strong>&lt;/p></description></item><item><title>The Post</title><link>https://lisenapati.org/posts/the-post/</link><pubDate>Thu, 20 Mar 2025 20:31:43 +0700</pubDate><guid>https://lisenapati.org/posts/the-post/</guid><description>&lt;h1 id="markdown-format-testing">Markdown Format Testing&lt;/h1>
-&lt;h2 id="-basic-formatting">📝 Basic Formatting&lt;/h2>
-&lt;p>&lt;strong>Bold Text&lt;/strong>
-&lt;em>Italic Text&lt;/em>
-&lt;del>Strikethrough&lt;/del>
-&lt;strong>&lt;em>Bold &amp;amp; Italic&lt;/em>&lt;/strong>&lt;/p>
-&lt;blockquote>
-&lt;p>This is a blockquote&lt;/p>
-&lt;blockquote>
-&lt;p>Nested blockquote&lt;/p>&lt;/blockquote>&lt;/blockquote>
-&lt;hr>
-&lt;h2 id="-lists">🔢 Lists&lt;/h2>
-&lt;h3 id="unordered-list">Unordered List:&lt;/h3>
-&lt;ul>
-&lt;li>Item 1&lt;/li>
-&lt;li>Item 2
-&lt;ul>
-&lt;li>Subitem 2.1&lt;/li>
-&lt;li>Subitem 2.2&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h3 id="ordered-list">Ordered List:&lt;/h3>
-&lt;ol>
-&lt;li>First Item&lt;/li>
-&lt;li>Second Item
-&lt;ol>
-&lt;li>Nested Item&lt;/li>
-&lt;li>Nested Item&lt;/li>
-&lt;/ol>
-&lt;/li>
-&lt;/ol>
-&lt;hr>
-&lt;h2 id="-code-blocks--inline-code">🎨 Code Blocks &amp;amp; Inline Code&lt;/h2>
-&lt;p>Inline code: &lt;code>print(&amp;quot;Hello, World!&amp;quot;)&lt;/code>&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#d6cbb4;background-color:#252b2e;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#859289;font-style:italic"># Shell Script Example&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#d699b6">echo&lt;/span> &lt;span style="color:#b2c98f">&amp;#34;This is a test&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>ls -la
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#d6cbb4;background-color:#252b2e;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#859289;font-style:italic"># Python Example&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e67e80">def&lt;/span> &lt;span style="color:#b2c98f">hello&lt;/span>():
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#d699b6">print&lt;/span>(&lt;span style="color:#b2c98f">&amp;#34;Hello, Markdown!&amp;#34;&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>hello()
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#d6cbb4;background-color:#252b2e;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-css" data-lang="css">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#859289;font-style:italic">/* CSS Example */&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#7a8478">body&lt;/span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e67e80">font-family&lt;/span>: Arial, &lt;span style="color:#e67e80">sans-serif&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
-&lt;h2 id="-tables">📌 Tables&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Name&lt;/th>
- &lt;th>Age&lt;/th>
- &lt;th>Anime&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>Keichi&lt;/td>
- &lt;td>17&lt;/td>
- &lt;td>Pokemon Concierge&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Battler&lt;/td>
- &lt;td>19&lt;/td>
- &lt;td>Puella Magi Madoka Magica&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>George&lt;/td>
- &lt;td>27&lt;/td>
- &lt;td>Steins; Gate&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;h2 id="-links--images">📎 Links &amp;amp; Images&lt;/h2>
-&lt;p>&lt;a href="https://github.com/" target="_blank" rel="noopener">GitHub&lt;/a>
-&lt;/p></description></item></channel></rss>
+&lt;p>&lt;strong>Sekalipun untuk pekerjaan ringan, jangan membeli produk murah dengan spesifikasi komponen yang rendah, karena produk itu lebih besar kemungkinannya untuk menjadi limbah elektronik yang bahkan tidak bisa digunakan untuk hal-hal lain.&lt;/strong>&lt;/p></description></item></channel></rss>

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Information on Lisenapati</title><link>https://lisenapati.org/tags/information/</link><description>Recent content in Information on Lisenapati</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 23 Mar 2025 06:46:14 +0700</lastBuildDate><atom:link href="https://lisenapati.org/tags/information/index.xml" rel="self" type="application/rss+xml"/><item><title>Trying Eric Murphy's render_image</title><link>https://lisenapati.org/posts/trying/</link><pubDate>Sun, 23 Mar 2025 06:46:14 +0700</pubDate><guid>https://lisenapati.org/posts/trying/</guid><description>&lt;p>Eric Murphy is a well known YouTuber in niche Linux/Privacy community that do web development.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Information on Lisenapati</title><link>https://lisenapati.org/tags/information/</link><description>Recent content in Information on Lisenapati</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 23 Mar 2025 06:46:14 +0700</lastBuildDate><atom:link href="https://lisenapati.org/tags/information/index.xml" rel="self" type="application/rss+xml"/><item><title>Trying Eric Murphy's render-image</title><link>https://lisenapati.org/posts/trying/</link><pubDate>Sun, 23 Mar 2025 06:46:14 +0700</pubDate><guid>https://lisenapati.org/posts/trying/</guid><description>&lt;p>Eric Murphy is a well known YouTuber in niche Linux/Privacy community that do web development.
 His home base site, &lt;a href="https://ericmurphy.xyz" target="_blank" rel="noopener">ericmurphy.xyz&lt;/a>
  have a really good code design and optimizations.&lt;/p>
 &lt;p>My 3DS&amp;rsquo; web browser able to load his site and even his images! So I want to give it a try.&lt;/p>
-&lt;p>Here&amp;rsquo;s his &lt;a href="https://ericmurphy.xyz/blog/images/" target="_blank" rel="noopener">blog&lt;/a>
+&lt;p>Here&amp;rsquo;s his &lt;a href="https://ericmurphy.xyz/blog/images/" target="_blank" rel="noopener">blog post&lt;/a>
 
 regarding the matter and his &lt;a href="https://github.com/ericmurphyxyz/ericmurphy.xyz/blob/master/layouts/_default/_markup/render-image.html" target="_blank" rel="noopener">code&lt;/a>
 
@@ -106,81 +106,4 @@ on GitHub.&lt;/p>
  &lt;figcaption>This post in 3DS!&lt;/figcaption>
 &lt;/figure>
 
-&lt;/p></description></item><item><title>The Post</title><link>https://lisenapati.org/posts/the-post/</link><pubDate>Thu, 20 Mar 2025 20:31:43 +0700</pubDate><guid>https://lisenapati.org/posts/the-post/</guid><description>&lt;h1 id="markdown-format-testing">Markdown Format Testing&lt;/h1>
-&lt;h2 id="-basic-formatting">📝 Basic Formatting&lt;/h2>
-&lt;p>&lt;strong>Bold Text&lt;/strong>
-&lt;em>Italic Text&lt;/em>
-&lt;del>Strikethrough&lt;/del>
-&lt;strong>&lt;em>Bold &amp;amp; Italic&lt;/em>&lt;/strong>&lt;/p>
-&lt;blockquote>
-&lt;p>This is a blockquote&lt;/p>
-&lt;blockquote>
-&lt;p>Nested blockquote&lt;/p>&lt;/blockquote>&lt;/blockquote>
-&lt;hr>
-&lt;h2 id="-lists">🔢 Lists&lt;/h2>
-&lt;h3 id="unordered-list">Unordered List:&lt;/h3>
-&lt;ul>
-&lt;li>Item 1&lt;/li>
-&lt;li>Item 2
-&lt;ul>
-&lt;li>Subitem 2.1&lt;/li>
-&lt;li>Subitem 2.2&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h3 id="ordered-list">Ordered List:&lt;/h3>
-&lt;ol>
-&lt;li>First Item&lt;/li>
-&lt;li>Second Item
-&lt;ol>
-&lt;li>Nested Item&lt;/li>
-&lt;li>Nested Item&lt;/li>
-&lt;/ol>
-&lt;/li>
-&lt;/ol>
-&lt;hr>
-&lt;h2 id="-code-blocks--inline-code">🎨 Code Blocks &amp;amp; Inline Code&lt;/h2>
-&lt;p>Inline code: &lt;code>print(&amp;quot;Hello, World!&amp;quot;)&lt;/code>&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#d6cbb4;background-color:#252b2e;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#859289;font-style:italic"># Shell Script Example&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#d699b6">echo&lt;/span> &lt;span style="color:#b2c98f">&amp;#34;This is a test&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>ls -la
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#d6cbb4;background-color:#252b2e;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#859289;font-style:italic"># Python Example&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e67e80">def&lt;/span> &lt;span style="color:#b2c98f">hello&lt;/span>():
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#d699b6">print&lt;/span>(&lt;span style="color:#b2c98f">&amp;#34;Hello, Markdown!&amp;#34;&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>hello()
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#d6cbb4;background-color:#252b2e;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-css" data-lang="css">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#859289;font-style:italic">/* CSS Example */&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#7a8478">body&lt;/span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e67e80">font-family&lt;/span>: Arial, &lt;span style="color:#e67e80">sans-serif&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
-&lt;h2 id="-tables">📌 Tables&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Name&lt;/th>
- &lt;th>Age&lt;/th>
- &lt;th>Anime&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>Keichi&lt;/td>
- &lt;td>17&lt;/td>
- &lt;td>Pokemon Concierge&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Battler&lt;/td>
- &lt;td>19&lt;/td>
- &lt;td>Puella Magi Madoka Magica&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>George&lt;/td>
- &lt;td>27&lt;/td>
- &lt;td>Steins; Gate&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;h2 id="-links--images">📎 Links &amp;amp; Images&lt;/h2>
-&lt;p>&lt;a href="https://github.com/" target="_blank" rel="noopener">GitHub&lt;/a>
 &lt;/p></description></item></channel></rss>
