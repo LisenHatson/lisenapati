@@ -1,26 +1,43 @@
-name: Deploy Hugo site
+name: Deploy Hugo site to VPS
+
 on:
   push:
     branches:
       - main
+  workflow_dispatch:
+
+defaults:
+  run:
+    shell: bash
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.145.0
+      HUGO_ENVIRONMENT: production
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Install Hugo
-        uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          submodules: recursive
+          fetch-depth: 0
 
-      - name: Build site
-        run: hugo --minify
+      - name: Install Hugo CLI
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Build with Hugo
+        run: |
+          hugo --gc --minify --baseURL "${{ secrets.VPS_BASE_URL }}"
+
+      - name: Deploy to VPS via SCP
+        uses: appleboy/scp-action@v0.1.4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USER }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          source: "public/"
+          target: "${{ secrets.VPS_DEPLOY_PATH }}"
+          strip_components: 1
