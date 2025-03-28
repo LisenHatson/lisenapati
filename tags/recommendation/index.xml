@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recommendation on Lisenapati</title><link>https://lisenapati.org/tags/recommendation/</link><description>Recent content in Recommendation on Lisenapati</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 21 Mar 2025 20:44:12 +0700</lastBuildDate><atom:link href="https://lisenapati.org/tags/recommendation/index.xml" rel="self" type="application/rss+xml"/><item><title>Laptop Recommendation</title><link>https://lisenapati.org/posts/laptop-recs/</link><pubDate>Fri, 21 Mar 2025 20:44:12 +0700</pubDate><guid>https://lisenapati.org/posts/laptop-recs/</guid><description>&lt;h1 id="my-laptop-recommendation">My laptop Recommendation&lt;/h1>
-&lt;p>THinkpad&lt;/p>
-&lt;p>&lt;a href="./rek.txt">down&lt;/a>
-&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recommendation on Lisenapati</title><link>https://lisenapati.org/tags/recommendation/</link><description>Recent content in Recommendation on Lisenapati</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 21 Mar 2025 20:44:12 +0700</lastBuildDate><atom:link href="https://lisenapati.org/tags/recommendation/index.xml" rel="self" type="application/rss+xml"/><item><title>Rekomendasi Laptop/Desktop</title><link>https://lisenapati.org/posts/laptop-recs/</link><pubDate>Fri, 21 Mar 2025 20:44:12 +0700</pubDate><guid>https://lisenapati.org/posts/laptop-recs/</guid><description>&lt;h2 id="daftar-isi">Daftar Isi&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="#-Baru-atau-Bekas?">Baru atau Bekas?&lt;/a>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="#-SPESIFIKASI-KOMPONEN-YANG-HARUS-DIHINDARI-">SPESIFIKASI KOMPONEN YANG HARUS DIHINDARI&lt;/a>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="#-Rekomendasi-Laptop">Rekomendasi Laptop&lt;/a>
+&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="#Thinkpad">Thinkpad&lt;/a>
+&lt;/li>
+&lt;li>&lt;a href="#Dell-Latitude">Dell Latitude&lt;/a>
+&lt;/li>
+&lt;li>&lt;a href="#Dell-Precision">Dell Precision&lt;/a>
+&lt;/li>
+&lt;li>&lt;a href="#HP-Elitebook">HP Elitebook&lt;/a>
+&lt;/li>
+&lt;li>&lt;a href="#Apple-MacBook">Apple MacBook&lt;/a>
+&lt;/li>
+&lt;li>&lt;a href="#Advan-dan-Axioo">Advan dan Axioo&lt;/a>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="#-Komponen-Komputer">Komponen Komputer&lt;/a>
+&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="#-Istilah-istilah-dan-Maksudnya">Istilah-istilah dan Maksudnya&lt;/a>
+&lt;/li>
+&lt;li>&lt;a href="#-Merk-dan-Tinjauannya">Merk dan Tinjauannya&lt;/a>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="#Rekomendasi-Desktop">Rekomendasi Desktop&lt;/a>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="#Rakit%3ePrebuilt">Rakit&amp;gt;&lt;em>Prebuilt&lt;/em>&lt;/a>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="#SFF,-Tiny-PC,-dan-Mini-PC">SFF, Tiny PC, dan Mini PC&lt;/a>
+&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="baru-atau-bekas">Baru atau Bekas?&lt;/h2>
+&lt;h3 id="baru">Baru&lt;/h3>
+&lt;ul>
+&lt;li>Barang belum pernah dipakai.&lt;/li>
+&lt;li>Kualitas bagus (namun belum tentu, beberapa perusahaan memotong biaya produksi dengan menurunkan kualitas produknya).&lt;/li>
+&lt;li>Perlengkapan lengkap (kardus, kartu petunjuk, dan lain sebagainya yang biasa disediakan pada produk baru).&lt;/li>
+&lt;/ul>
+&lt;h3 id="bekas">Bekas&lt;/h3>
+&lt;ul>
+&lt;li>Menerapkan konsep &lt;em>reuse&lt;/em>, membuktikan bahwa anda telah berpartisipasi dalam menjaga lingkungan dengan menggunakan barang bekas.&lt;/li>
+&lt;li>Harga murah, dengan performa bagus. Produk lama biasanya memiliki harga rendah dengan performa yang masih bisa menyaingi produk baru.&lt;/li>
+&lt;li>Kualitas buruk? Beberapa perusahaan elektronik memperbaharui &lt;em>(refurbish)&lt;/em> produk bekas dengan mengganti dan memperbaiki beberapa komponen yang ada.&lt;/li>
+&lt;/ul>
+&lt;h2 id="spesifikasi-komponen-yang-harus-dihindari">SPESIFIKASI KOMPONEN YANG HARUS DIHINDARI&lt;/h2>
+&lt;ul>
+&lt;li>Soldered (tidak bisa diperbaiki atau diganti secara individu, perlu diganti secara keseluruhan yang di mana akan memakan biaya besar).&lt;/li>
+&lt;li>eMMC, tidak bisa diganti dan memiliki performa yang buruk.&lt;/li>
+&lt;li>Intel Celeron dan Pentium. AMD Athlon (Jenis-jenis prosesor ini memiliki performa yang rendah sekalipun untuk pekerjaan).&lt;/li>
+&lt;li>RAM di bawah 4GB&lt;/li>
+&lt;li>Laptop dengan HDD&lt;/li>
+&lt;li>Penyimpanan di bawah 128GB&lt;/li>
+&lt;li>Laptop yang terbuat dari material murahan dan pengendalian kualitas yang buruk.&lt;/li>
+&lt;li>Untuk informasi yang lebih lengkap, silakan cek &lt;a href="#-Komponen-Komputer">Komponen Komputer&lt;/a>
+.&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&lt;strong>Sekalipun untuk pekerjaan ringan, jangan membeli produk murah dengan spesifikasi komponen yang rendah, karena produk itu lebih besar kemungkinannya untuk menjadi limbah elektronik yang bahkan tidak bisa digunakan untuk hal-hal lain.&lt;/strong>&lt;/p></description></item></channel></rss>

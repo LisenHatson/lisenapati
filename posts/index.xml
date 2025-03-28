@@ -12,7 +12,7 @@ on GitHub.&lt;/p>
 &lt;p>
 
 
-&lt;figure class="full-width">
+&lt;figure class="render-image">
  
  
 
@@ -23,15 +23,13 @@ on GitHub.&lt;/p>
 
  
  
-
  &lt;a href="https://lisenapati.org/posts/trying/vashti.jpg">
  &lt;picture>
- &lt;source srcset="https://lisenapati.org/posts/trying/vashti_hu_e785fa6f42325e0.webp" type="image/webp">
- &lt;img src="https://lisenapati.org/posts/trying/vashti_hu_950c22ebb2653fa8.jpg" alt="Vashti" loading="lazy" decoding="async"
- width="400" height="400" />
+ &lt;source srcset="https://lisenapati.org/posts/trying/vashti_hu_435cf7e3a73a712b.webp" type="image/webp">
+ &lt;img src="https://lisenapati.org/posts/trying/vashti_hu_fcecefdc177b3d67.jpg" alt="Vashti" loading="lazy" decoding="async"
+ width="500" height="500" />
  &lt;/picture>
  &lt;/a>
-
  &lt;figcaption>My Drawing&lt;/figcaption>
 &lt;/figure>
 
@@ -39,7 +37,7 @@ on GitHub.&lt;/p>
 
 
 
-&lt;figure class="full-width">
+&lt;figure class="render-image">
  
  
 
@@ -50,15 +48,13 @@ on GitHub.&lt;/p>
 
  
  
-
  &lt;a href="https://lisenapati.org/posts/trying/IMG_2003.jpg">
  &lt;picture>
- &lt;source srcset="https://lisenapati.org/posts/trying/IMG_2003_hu_81b76783197386e6.webp" type="image/webp">
- &lt;img src="https://lisenapati.org/posts/trying/IMG_2003_hu_275f9ab873630ee1.jpg" alt="Park" loading="lazy" decoding="async"
- width="400" height="267" />
+ &lt;source srcset="https://lisenapati.org/posts/trying/IMG_2003_hu_314c90751dee85c.webp" type="image/webp">
+ &lt;img src="https://lisenapati.org/posts/trying/IMG_2003_hu_bd7616bc408ff938.jpg" alt="Park" loading="lazy" decoding="async"
+ width="500" height="334" />
  &lt;/picture>
  &lt;/a>
-
  &lt;figcaption>My Photo&lt;/figcaption>
 &lt;/figure>
 
@@ -66,7 +62,7 @@ on GitHub.&lt;/p>
 
 
 
-&lt;figure class="full-width">
+&lt;figure class="render-image">
  
  
 
@@ -77,15 +73,13 @@ on GitHub.&lt;/p>
 
  
  
-
  &lt;a href="https://lisenapati.org/posts/trying/gmp.png">
  &lt;picture>
- &lt;source srcset="https://lisenapati.org/posts/trying/gmp_hu_e1c6eb8774657dfd.webp" type="image/webp">
- &lt;img src="https://lisenapati.org/posts/trying/gmp_hu_a08fdd41018531d4.png" alt="" loading="lazy" decoding="async"
- width="400" height="225" />
+ &lt;source srcset="https://lisenapati.org/posts/trying/gmp_hu_2dc77bc17b2ba1b6.webp" type="image/webp">
+ &lt;img src="https://lisenapati.org/posts/trying/gmp_hu_67a076c56d8e5d28.png" alt="" loading="lazy" decoding="async"
+ width="500" height="281" />
  &lt;/picture>
  &lt;/a>
-
  &lt;figcaption>My Gimp Edit&lt;/figcaption>
 &lt;/figure>
 
@@ -93,7 +87,7 @@ on GitHub.&lt;/p>
 
 
 
-&lt;figure class="full-width">
+&lt;figure class="render-image">
  
  
 
@@ -104,22 +98,94 @@ on GitHub.&lt;/p>
 
  
  
-
  &lt;a href="https://lisenapati.org/posts/trying/mysite.png">
  &lt;picture>
- &lt;source srcset="https://lisenapati.org/posts/trying/mysite_hu_d39d135c85ec6c3e.webp" type="image/webp">
- &lt;img src="https://lisenapati.org/posts/trying/mysite_hu_7ff4342a2c65e24b.png" alt="" loading="lazy" decoding="async"
- width="400" height="400" />
+ &lt;source srcset="https://lisenapati.org/posts/trying/mysite_hu_c91cb6f1fed3da39.webp" type="image/webp">
+ &lt;img src="https://lisenapati.org/posts/trying/mysite_hu_76925efbea11d4cc.png" alt="" loading="lazy" decoding="async"
+ width="500" height="500" />
  &lt;/picture>
  &lt;/a>
-
  &lt;figcaption>This post in 3DS!&lt;/figcaption>
 &lt;/figure>
 
-&lt;/p></description></item><item><title>Laptop Recommendation</title><link>https://lisenapati.org/posts/laptop-recs/</link><pubDate>Fri, 21 Mar 2025 20:44:12 +0700</pubDate><guid>https://lisenapati.org/posts/laptop-recs/</guid><description>&lt;h1 id="my-laptop-recommendation">My laptop Recommendation&lt;/h1>
-&lt;p>THinkpad&lt;/p>
-&lt;p>&lt;a href="./rek.txt">down&lt;/a>
-&lt;/p></description></item><item><title>The Post</title><link>https://lisenapati.org/posts/the-post/</link><pubDate>Thu, 20 Mar 2025 20:31:43 +0700</pubDate><guid>https://lisenapati.org/posts/the-post/</guid><description>&lt;h1 id="markdown-format-testing">Markdown Format Testing&lt;/h1>
+&lt;/p></description></item><item><title>Rekomendasi Laptop/Desktop</title><link>https://lisenapati.org/posts/laptop-recs/</link><pubDate>Fri, 21 Mar 2025 20:44:12 +0700</pubDate><guid>https://lisenapati.org/posts/laptop-recs/</guid><description>&lt;h2 id="daftar-isi">Daftar Isi&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="#-Baru-atau-Bekas?">Baru atau Bekas?&lt;/a>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="#-SPESIFIKASI-KOMPONEN-YANG-HARUS-DIHINDARI-">SPESIFIKASI KOMPONEN YANG HARUS DIHINDARI&lt;/a>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="#-Rekomendasi-Laptop">Rekomendasi Laptop&lt;/a>
+&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="#Thinkpad">Thinkpad&lt;/a>
+&lt;/li>
+&lt;li>&lt;a href="#Dell-Latitude">Dell Latitude&lt;/a>
+&lt;/li>
+&lt;li>&lt;a href="#Dell-Precision">Dell Precision&lt;/a>
+&lt;/li>
+&lt;li>&lt;a href="#HP-Elitebook">HP Elitebook&lt;/a>
+&lt;/li>
+&lt;li>&lt;a href="#Apple-MacBook">Apple MacBook&lt;/a>
+&lt;/li>
+&lt;li>&lt;a href="#Advan-dan-Axioo">Advan dan Axioo&lt;/a>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="#-Komponen-Komputer">Komponen Komputer&lt;/a>
+&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="#-Istilah-istilah-dan-Maksudnya">Istilah-istilah dan Maksudnya&lt;/a>
+&lt;/li>
+&lt;li>&lt;a href="#-Merk-dan-Tinjauannya">Merk dan Tinjauannya&lt;/a>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="#Rekomendasi-Desktop">Rekomendasi Desktop&lt;/a>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="#Rakit%3ePrebuilt">Rakit&amp;gt;&lt;em>Prebuilt&lt;/em>&lt;/a>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="#SFF,-Tiny-PC,-dan-Mini-PC">SFF, Tiny PC, dan Mini PC&lt;/a>
+&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="baru-atau-bekas">Baru atau Bekas?&lt;/h2>
+&lt;h3 id="baru">Baru&lt;/h3>
+&lt;ul>
+&lt;li>Barang belum pernah dipakai.&lt;/li>
+&lt;li>Kualitas bagus (namun belum tentu, beberapa perusahaan memotong biaya produksi dengan menurunkan kualitas produknya).&lt;/li>
+&lt;li>Perlengkapan lengkap (kardus, kartu petunjuk, dan lain sebagainya yang biasa disediakan pada produk baru).&lt;/li>
+&lt;/ul>
+&lt;h3 id="bekas">Bekas&lt;/h3>
+&lt;ul>
+&lt;li>Menerapkan konsep &lt;em>reuse&lt;/em>, membuktikan bahwa anda telah berpartisipasi dalam menjaga lingkungan dengan menggunakan barang bekas.&lt;/li>
+&lt;li>Harga murah, dengan performa bagus. Produk lama biasanya memiliki harga rendah dengan performa yang masih bisa menyaingi produk baru.&lt;/li>
+&lt;li>Kualitas buruk? Beberapa perusahaan elektronik memperbaharui &lt;em>(refurbish)&lt;/em> produk bekas dengan mengganti dan memperbaiki beberapa komponen yang ada.&lt;/li>
+&lt;/ul>
+&lt;h2 id="spesifikasi-komponen-yang-harus-dihindari">SPESIFIKASI KOMPONEN YANG HARUS DIHINDARI&lt;/h2>
+&lt;ul>
+&lt;li>Soldered (tidak bisa diperbaiki atau diganti secara individu, perlu diganti secara keseluruhan yang di mana akan memakan biaya besar).&lt;/li>
+&lt;li>eMMC, tidak bisa diganti dan memiliki performa yang buruk.&lt;/li>
+&lt;li>Intel Celeron dan Pentium. AMD Athlon (Jenis-jenis prosesor ini memiliki performa yang rendah sekalipun untuk pekerjaan).&lt;/li>
+&lt;li>RAM di bawah 4GB&lt;/li>
+&lt;li>Laptop dengan HDD&lt;/li>
+&lt;li>Penyimpanan di bawah 128GB&lt;/li>
+&lt;li>Laptop yang terbuat dari material murahan dan pengendalian kualitas yang buruk.&lt;/li>
+&lt;li>Untuk informasi yang lebih lengkap, silakan cek &lt;a href="#-Komponen-Komputer">Komponen Komputer&lt;/a>
+.&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&lt;strong>Sekalipun untuk pekerjaan ringan, jangan membeli produk murah dengan spesifikasi komponen yang rendah, karena produk itu lebih besar kemungkinannya untuk menjadi limbah elektronik yang bahkan tidak bisa digunakan untuk hal-hal lain.&lt;/strong>&lt;/p></description></item><item><title>The Post</title><link>https://lisenapati.org/posts/the-post/</link><pubDate>Thu, 20 Mar 2025 20:31:43 +0700</pubDate><guid>https://lisenapati.org/posts/the-post/</guid><description>&lt;h1 id="markdown-format-testing">Markdown Format Testing&lt;/h1>
 &lt;h2 id="-basic-formatting">📝 Basic Formatting&lt;/h2>
 &lt;p>&lt;strong>Bold Text&lt;/strong>
 &lt;em>Italic Text&lt;/em>
