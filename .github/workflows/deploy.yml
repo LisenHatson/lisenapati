@@ -28,11 +28,8 @@ jobs:
           touch public/.nojekyll
 
       - name: Deploy to VPS via rsync
-        uses: burnett01/rsync-deployments@5.2
-        with:
-          switches: -avz --delete
-          path: public/
-          remote_path: /var/www/html/
-          remote_host: ${{ secrets.VPS_HOST }}
-          remote_user: ${{ secrets.VPS_USER }}
-          remote_key: ${{ secrets.VPS_SSH_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.VPS_SSH_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          rsync -avz --delete -e "ssh -p ${{ secrets.VPS_SSH_PORT }} -o StrictHostKeyChecking=no -i ~/.ssh/id_ed25519" public/ ${{ secrets.VPS_USER }}@${{ secrets.VPS_HOST }}:/var/www/lisenapati/
