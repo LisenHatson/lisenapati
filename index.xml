@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lisenapati</title><link>https://lisenhatson.github.io/</link><description>Recent content on Lisenapati</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 28 Mar 2025 11:46:59 +0700</lastBuildDate><atom:link href="https://lisenhatson.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Lisenapati is now officially on Lisenapati.org!</title><link>https://lisenhatson.github.io/posts/official/</link><pubDate>Fri, 28 Mar 2025 11:46:59 +0700</pubDate><guid>https://lisenhatson.github.io/posts/official/</guid><description>&lt;p>For the past few weeks, I&amp;rsquo;ve been learning Hugo and basic HTML/CSS designing for my website. I&amp;rsquo;m referencing and learning a lot from content creators that I&amp;rsquo;ve been following that uses Hugo and Linux. Now that I&amp;rsquo;ve deployed this site on my own domain, this site is now officially launched!&lt;/p>
-&lt;p>This is how I wrote my posts, using markdown, for designing and the whole website layout, I&amp;rsquo;m just did some plain CSS and HTML, I probably do JS-ing for some unique features like guestbook, music player, et cetera.&lt;/p></description></item><item><title>Links</title><link>https://lisenhatson.github.io/links/</link><pubDate>Mon, 24 Mar 2025 15:26:21 +0700</pubDate><guid>https://lisenhatson.github.io/links/</guid><description>&lt;p>Site&lt;/p></description></item><item><title>Why I Stopped Listen to Loud Music</title><link>https://lisenhatson.github.io/posts/loud-music/</link><pubDate>Sun, 23 Mar 2025 21:20:48 +0700</pubDate><guid>https://lisenhatson.github.io/posts/loud-music/</guid><description>&lt;p>It&amp;rsquo;s too loud.
-I can&amp;rsquo;t stand it.&lt;/p></description></item><item><title>Trying Eric Murphy's render_image</title><link>https://lisenhatson.github.io/posts/trying/</link><pubDate>Sun, 23 Mar 2025 06:46:14 +0700</pubDate><guid>https://lisenhatson.github.io/posts/trying/</guid><description>&lt;p>Eric Murphy is a well known YouTuber in niche Linux/Privacy community that do web development.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lisenapati</title><link>https://lisenapati.org/</link><description>Recent content on Lisenapati</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 28 Mar 2025 11:46:59 +0700</lastBuildDate><atom:link href="https://lisenapati.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Lisenapati is now officially on Lisenapati.org!</title><link>https://lisenapati.org/posts/official/</link><pubDate>Fri, 28 Mar 2025 11:46:59 +0700</pubDate><guid>https://lisenapati.org/posts/official/</guid><description>&lt;p>For the past few weeks, I&amp;rsquo;ve been learning Hugo and basic HTML/CSS designing for my website. I&amp;rsquo;m referencing and learning a lot from content creators that I&amp;rsquo;ve been following that uses Hugo and Linux. Now that I&amp;rsquo;ve deployed this site on my own domain, this site is now officially launched!&lt;/p>
+&lt;p>This is how I wrote my posts, using markdown, for designing and the whole website layout, I&amp;rsquo;m just did some plain CSS and HTML, I probably do JS-ing for some unique features like guestbook, music player, et cetera.&lt;/p></description></item><item><title>Links</title><link>https://lisenapati.org/links/</link><pubDate>Mon, 24 Mar 2025 15:26:21 +0700</pubDate><guid>https://lisenapati.org/links/</guid><description>&lt;p>Site&lt;/p></description></item><item><title>Why I Stopped Listen to Loud Music</title><link>https://lisenapati.org/posts/loud-music/</link><pubDate>Sun, 23 Mar 2025 21:20:48 +0700</pubDate><guid>https://lisenapati.org/posts/loud-music/</guid><description>&lt;p>It&amp;rsquo;s too loud.
+I can&amp;rsquo;t stand it.&lt;/p></description></item><item><title>Trying Eric Murphy's render_image</title><link>https://lisenapati.org/posts/trying/</link><pubDate>Sun, 23 Mar 2025 06:46:14 +0700</pubDate><guid>https://lisenapati.org/posts/trying/</guid><description>&lt;p>Eric Murphy is a well known YouTuber in niche Linux/Privacy community that do web development.
 His home base site, &lt;a href="https://ericmurphy.xyz" target="_blank" rel="noopener">ericmurphy.xyz&lt;/a>
  have a really good code design and optimizations.&lt;/p>
 &lt;p>My 3DS&amp;rsquo; web browser able to load his site and even his images! So I want to give it a try.&lt;/p>
@@ -24,10 +24,10 @@ on GitHub.&lt;/p>
  
  
 
- &lt;a href="https://lisenhatson.github.io/posts/trying/vashti.jpg">
+ &lt;a href="https://lisenapati.org/posts/trying/vashti.jpg">
  &lt;picture>
- &lt;source srcset="https://lisenhatson.github.io/posts/trying/vashti_hu_e785fa6f42325e0.webp" type="image/webp">
- &lt;img src="https://lisenhatson.github.io/posts/trying/vashti_hu_950c22ebb2653fa8.jpg" alt="Vashti" loading="lazy" decoding="async"
+ &lt;source srcset="https://lisenapati.org/posts/trying/vashti_hu_e785fa6f42325e0.webp" type="image/webp">
+ &lt;img src="https://lisenapati.org/posts/trying/vashti_hu_950c22ebb2653fa8.jpg" alt="Vashti" loading="lazy" decoding="async"
  width="400" height="400" />
  &lt;/picture>
  &lt;/a>
@@ -51,10 +51,10 @@ on GitHub.&lt;/p>
  
  
 
- &lt;a href="https://lisenhatson.github.io/posts/trying/IMG_2003.jpg">
+ &lt;a href="https://lisenapati.org/posts/trying/IMG_2003.jpg">
  &lt;picture>
- &lt;source srcset="https://lisenhatson.github.io/posts/trying/IMG_2003_hu_81b76783197386e6.webp" type="image/webp">
- &lt;img src="https://lisenhatson.github.io/posts/trying/IMG_2003_hu_275f9ab873630ee1.jpg" alt="Park" loading="lazy" decoding="async"
+ &lt;source srcset="https://lisenapati.org/posts/trying/IMG_2003_hu_81b76783197386e6.webp" type="image/webp">
+ &lt;img src="https://lisenapati.org/posts/trying/IMG_2003_hu_275f9ab873630ee1.jpg" alt="Park" loading="lazy" decoding="async"
  width="400" height="267" />
  &lt;/picture>
  &lt;/a>
@@ -78,10 +78,10 @@ on GitHub.&lt;/p>
  
  
 
- &lt;a href="https://lisenhatson.github.io/posts/trying/gmp.png">
+ &lt;a href="https://lisenapati.org/posts/trying/gmp.png">
  &lt;picture>
- &lt;source srcset="https://lisenhatson.github.io/posts/trying/gmp_hu_e1c6eb8774657dfd.webp" type="image/webp">
- &lt;img src="https://lisenhatson.github.io/posts/trying/gmp_hu_a08fdd41018531d4.png" alt="" loading="lazy" decoding="async"
+ &lt;source srcset="https://lisenapati.org/posts/trying/gmp_hu_e1c6eb8774657dfd.webp" type="image/webp">
+ &lt;img src="https://lisenapati.org/posts/trying/gmp_hu_a08fdd41018531d4.png" alt="" loading="lazy" decoding="async"
  width="400" height="225" />
  &lt;/picture>
  &lt;/a>
@@ -105,10 +105,10 @@ on GitHub.&lt;/p>
  
  
 
- &lt;a href="https://lisenhatson.github.io/posts/trying/mysite.png">
+ &lt;a href="https://lisenapati.org/posts/trying/mysite.png">
  &lt;picture>
- &lt;source srcset="https://lisenhatson.github.io/posts/trying/mysite_hu_d39d135c85ec6c3e.webp" type="image/webp">
- &lt;img src="https://lisenhatson.github.io/posts/trying/mysite_hu_7ff4342a2c65e24b.png" alt="" loading="lazy" decoding="async"
+ &lt;source srcset="https://lisenapati.org/posts/trying/mysite_hu_d39d135c85ec6c3e.webp" type="image/webp">
+ &lt;img src="https://lisenapati.org/posts/trying/mysite_hu_7ff4342a2c65e24b.png" alt="" loading="lazy" decoding="async"
  width="400" height="400" />
  &lt;/picture>
  &lt;/a>
@@ -116,11 +116,11 @@ on GitHub.&lt;/p>
  &lt;figcaption>This post in 3DS!&lt;/figcaption>
 &lt;/figure>
 
-&lt;/p></description></item><item><title>Laptop Recommendation</title><link>https://lisenhatson.github.io/posts/laptop-recs/</link><pubDate>Fri, 21 Mar 2025 20:44:12 +0700</pubDate><guid>https://lisenhatson.github.io/posts/laptop-recs/</guid><description>&lt;h1 id="my-laptop-recommendation">My laptop Recommendation&lt;/h1>
+&lt;/p></description></item><item><title>Laptop Recommendation</title><link>https://lisenapati.org/posts/laptop-recs/</link><pubDate>Fri, 21 Mar 2025 20:44:12 +0700</pubDate><guid>https://lisenapati.org/posts/laptop-recs/</guid><description>&lt;h1 id="my-laptop-recommendation">My laptop Recommendation&lt;/h1>
 &lt;p>THinkpad&lt;/p>
 &lt;p>&lt;a href="./rek.txt">down&lt;/a>
-&lt;/p></description></item><item><title>Contact</title><link>https://lisenhatson.github.io/contact/contact/</link><pubDate>Fri, 21 Mar 2025 11:21:01 +0700</pubDate><guid>https://lisenhatson.github.io/contact/contact/</guid><description>&lt;h1 id="contact-me">Contact me&lt;/h1>
-&lt;p>www.&lt;/p></description></item><item><title>The Post</title><link>https://lisenhatson.github.io/posts/the-post/</link><pubDate>Thu, 20 Mar 2025 20:31:43 +0700</pubDate><guid>https://lisenhatson.github.io/posts/the-post/</guid><description>&lt;h1 id="markdown-format-testing">Markdown Format Testing&lt;/h1>
+&lt;/p></description></item><item><title>Contact</title><link>https://lisenapati.org/contact/contact/</link><pubDate>Fri, 21 Mar 2025 11:21:01 +0700</pubDate><guid>https://lisenapati.org/contact/contact/</guid><description>&lt;h1 id="contact-me">Contact me&lt;/h1>
+&lt;p>www.&lt;/p></description></item><item><title>The Post</title><link>https://lisenapati.org/posts/the-post/</link><pubDate>Thu, 20 Mar 2025 20:31:43 +0700</pubDate><guid>https://lisenapati.org/posts/the-post/</guid><description>&lt;h1 id="markdown-format-testing">Markdown Format Testing&lt;/h1>
 &lt;h2 id="-basic-formatting">📝 Basic Formatting&lt;/h2>
 &lt;p>&lt;strong>Bold Text&lt;/strong>
 &lt;em>Italic Text&lt;/em>
@@ -197,5 +197,5 @@ on GitHub.&lt;/p>
 &lt;hr>
 &lt;h2 id="-links--images">📎 Links &amp;amp; Images&lt;/h2>
 &lt;p>&lt;a href="https://github.com/" target="_blank" rel="noopener">GitHub&lt;/a>
-&lt;/p></description></item><item><title>Contact</title><link>https://lisenhatson.github.io/about/</link><pubDate>Thu, 20 Mar 2025 20:27:43 +0700</pubDate><guid>https://lisenhatson.github.io/about/</guid><description>&lt;p>lisenhatson at gmail dot com&lt;/p>
+&lt;/p></description></item><item><title>Contact</title><link>https://lisenapati.org/about/</link><pubDate>Thu, 20 Mar 2025 20:27:43 +0700</pubDate><guid>https://lisenapati.org/about/</guid><description>&lt;p>lisenhatson at gmail dot com&lt;/p>
 &lt;p>&lt;strong>@lisenapati&lt;/strong> on Instagram/Thread&lt;/p></description></item></channel></rss>
