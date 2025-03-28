@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lisenapati</title><link>https://lisenapati.org/</link><description>Recent content on Lisenapati</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 28 Mar 2025 11:46:59 +0700</lastBuildDate><atom:link href="https://lisenapati.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Lisenapati is now officially on Lisenapati.org!</title><link>https://lisenapati.org/posts/official/</link><pubDate>Fri, 28 Mar 2025 11:46:59 +0700</pubDate><guid>https://lisenapati.org/posts/official/</guid><description>&lt;p>For the past few weeks, I&amp;rsquo;ve been learning Hugo and basic HTML/CSS designing for my website. I&amp;rsquo;m referencing and learning a lot from content creators that I&amp;rsquo;ve been following that uses Hugo and Linux. Now that I&amp;rsquo;ve deployed this site on my own domain, this site is now officially launched!&lt;/p>
-&lt;p>This is how I wrote my posts, using markdown, for designing and the whole website layout, I&amp;rsquo;m just did some plain CSS and HTML, I probably do JS-ing for some unique features like guestbook, music player, et cetera.&lt;/p></description></item><item><title>Links</title><link>https://lisenapati.org/links/</link><pubDate>Mon, 24 Mar 2025 15:26:21 +0700</pubDate><guid>https://lisenapati.org/links/</guid><description>&lt;p>Site&lt;/p></description></item><item><title>Trying Eric Murphy's render-image</title><link>https://lisenapati.org/posts/trying/</link><pubDate>Sun, 23 Mar 2025 06:46:14 +0700</pubDate><guid>https://lisenapati.org/posts/trying/</guid><description>&lt;p>Eric Murphy is a well known YouTuber in niche Linux/Privacy community that do web development.
+&lt;p>This is how I wrote my posts, using markdown, for designing and the whole website layout, I&amp;rsquo;m just did some plain CSS and HTML, I probably do JS-ing for some unique features like guestbook, music player, et cetera.&lt;/p></description></item><item><title>Links</title><link>https://lisenapati.org/links/</link><pubDate>Mon, 24 Mar 2025 15:26:21 +0700</pubDate><guid>https://lisenapati.org/links/</guid><description>&lt;p>These are links that might be relevant to share with you.&lt;/p>
+&lt;h3 id="people-that-ive-been-referencinglearning-a-lot-from">People that I&amp;rsquo;ve been referencing/learning a lot from:&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Luke Smith&lt;/strong> | &lt;a href="https://lukesmith.xyz" target="_blank" rel="noopener">Site&lt;/a>
+&lt;/li>
+&lt;li>&lt;strong>Denshi&lt;/strong> | &lt;a href="https://denshi.org" target="_blank" rel="noopener">Site&lt;/a>
+&lt;/li>
+&lt;li>&lt;strong>Chris Titus&lt;/strong> | &lt;a href="https://christitus.com" target="_blank" rel="noopener">Site&lt;/a>
+&lt;/li>
+&lt;li>&lt;strong>DT&lt;/strong> | &lt;a href="https://distro.tube" target="_blank" rel="noopener">Site&lt;/a>
+&lt;/li>
+&lt;li>&lt;strong>Eric Murphy&lt;/strong> | &lt;a href="https://ericmurphy.xyz" target="_blank" rel="noopener">Site&lt;/a>
+&lt;/li>
+&lt;li>&lt;strong>ThePrimeagen&lt;/strong> | &lt;a href="https://github.com/ThePrimeagen" target="_blank" rel="noopener">GitHub&lt;/a>
+&lt;/li>
+&lt;/ul></description></item><item><title>Trying Eric Murphy's render-image</title><link>https://lisenapati.org/posts/trying/</link><pubDate>Sun, 23 Mar 2025 06:46:14 +0700</pubDate><guid>https://lisenapati.org/posts/trying/</guid><description>&lt;p>Eric Murphy is a well known YouTuber in niche Linux/Privacy community that do web development.
 His home base site, &lt;a href="https://ericmurphy.xyz" target="_blank" rel="noopener">ericmurphy.xyz&lt;/a>
  have a really good code design and optimizations.&lt;/p>
 &lt;p>My 3DS&amp;rsquo; web browser able to load his site and even his images! So I want to give it a try.&lt;/p>
@@ -173,5 +188,11 @@ on GitHub.&lt;/p>
 &lt;/ul>
 &lt;blockquote>
 &lt;p>&lt;strong>Sekalipun untuk pekerjaan ringan, jangan membeli produk murah dengan spesifikasi komponen yang rendah, karena produk itu lebih besar kemungkinannya untuk menjadi limbah elektronik yang bahkan tidak bisa digunakan untuk hal-hal lain.&lt;/strong>&lt;/p></description></item><item><title>Contact</title><link>https://lisenapati.org/contact/contact/</link><pubDate>Fri, 21 Mar 2025 11:21:01 +0700</pubDate><guid>https://lisenapati.org/contact/contact/</guid><description>&lt;h1 id="contact-me">Contact me&lt;/h1>
-&lt;p>www.&lt;/p></description></item><item><title>Contact</title><link>https://lisenapati.org/about/</link><pubDate>Thu, 20 Mar 2025 20:27:43 +0700</pubDate><guid>https://lisenapati.org/about/</guid><description>&lt;p>lisenhatson at gmail dot com&lt;/p>
-&lt;p>&lt;strong>@lisenapati&lt;/strong> on Instagram/Thread&lt;/p></description></item></channel></rss>
+&lt;p>www.&lt;/p></description></item><item><title>Contact</title><link>https://lisenapati.org/about/</link><pubDate>Thu, 20 Mar 2025 20:27:43 +0700</pubDate><guid>https://lisenapati.org/about/</guid><description>&lt;p>&lt;a href="mailto:arya@lisenapati.org">arya@lisenapati.org&lt;/a>
+ (my personal mail, I&amp;rsquo;ll be adding encryption soon)&lt;/p>
+&lt;p>&lt;a href="mailto:lisenhatson@gmail.com">lisenhatson@gmail.com&lt;/a>
+ (my &lt;em>g&lt;/em>mail)&lt;/p>
+&lt;p>&lt;strong>@lisenapati&lt;/strong> on &lt;a href="https://www.instagram.com/lisenapati/" target="_blank" rel="noopener">Instagram&lt;/a>
+&lt;/p>
+&lt;p>Arya Senapati Rabbani on &lt;a href="https://www.linkedin.com/in/arya-senapati-rabbani-27656932" target="_blank" rel="noopener">LinkedIn&lt;/a>
+&lt;/p></description></item></channel></rss>
